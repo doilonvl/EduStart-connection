@@ -1,0 +1,49 @@
+/* ProjectsList.css */
+.projects-list-container {
+  padding: 24px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.always-hover-1::before {
+  transform: scale(30);
+}
+
+.always-hover-1 .project-specialties {
+  display: block;
+}
+
+.header-content-mentor-detail {
+  padding: 13px;
+  margin: -26px -13px 2px -19px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: white;
+  background-color: rgba(9, 99, 110, 0.58);
+  width: 103%;
+  text-align: center;
+}
+.filter-section-mentor-preference {
+  display: flex;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 11px;
+  margin-left: -10px;
+  margin-right: -10px;
+  border-radius: 11px;
+  gap: 25px;
+}
+.ant-card .ant-card-head {
+  min-height: 45px;
+}
+.semester-infor-head .ant-card-head {
+  min-height: 40px;
+}
+.ant-card .ant-card-body {
+  padding: 15px;
+}
+.site-layout-background .ant-layout-sider-trigger {
+  background-color: #6ca0a7;
+}
+.ant-input-group-addon .ant-input-search-button {
+  background-color: rgb(98, 182, 203);
+}
